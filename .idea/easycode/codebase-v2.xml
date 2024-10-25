@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/ee/ivkhkdev/handlers/BookService.java;C:/Users/user/IdeaProjects/NPTV23Library/src/main/java/ee/ivkhkdev/interfaces/impl/AppBookHalper.java;C:/Users/user/IdeaProjects/NPTV23Library/src/main/java/ee/ivkhkdev/interfaces/impl/ConsoleInput.java;C:/Users/user/IdeaProjects/NPTV23Library/src/main/java/ee/ivkhkdev/interfaces/BookProvider.java;C:/Users/user/IdeaProjects/NPTV23Library/src/main/java/ee/ivkhkdev/interfaces/InputProvider.java;C:/Users/user/IdeaProjects/NPTV23Library/src/main/java/ee/ivkhkdev/model/Author.java;C:/Users/user/IdeaProjects/NPTV23Library/src/main/java/ee/ivkhkdev/model/Book.java;C:/Users/user/IdeaProjects/NPTV23Library/src/main/java/ee/ivkhkdev/App.java;C:/Users/user/IdeaProjects/NPTV23Library/src/main/java/ee/ivkhkdev/NPTV23Library.java;C:/Users/user/IdeaProjects/NPTV23Library/src/test/java/ee/ivkhkdev/AppTest.java;C:/Users/user/IdeaProjects/NPTV23Library/pom.xml" />
+  </component>
+</project>
